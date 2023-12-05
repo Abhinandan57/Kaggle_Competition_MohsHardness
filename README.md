@@ -1,5 +1,6 @@
 <h2 style="color:red">Kaggle_Competition_MohsHardness</h2>
-This repository contains models created on datasets of Kaggle Competitions : "Regression with a Mohs Hardness Dataset"
+This repository contains models created on datasets of Kaggle Competitions : "Regression with a Mohs Hardness Dataset"  
+
 https://www.kaggle.com/competitions/playground-series-s3e25/overview
 
 <h3 style="color:red">Dataset Description:</h3>
