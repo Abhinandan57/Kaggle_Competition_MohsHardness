@@ -14,7 +14,8 @@ sample_submission.csv - a sample submission file in the correct format
 Submissions are scored on the Median Absolute Error (MedAE). 
 
 **Submission File**
-For each id row in the test set, you must predict the value for the target Hardness. The file should contain a header and have the following format:
+For each id row in the test set, you must predict the value for the target Hardness. The file should contain a header and have the following format:  
+
 <img width="110" alt="image" src="https://github.com/Abhinandan57/Kaggle_Competition_MohsHardness/assets/26693264/96517f45-5d80-40f9-8ec7-28fadadc5a83">
 
 
